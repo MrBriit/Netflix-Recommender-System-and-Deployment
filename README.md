@@ -82,7 +82,7 @@ I'm a Full Stack Data Scientist
 
 👯‍♀️ Masters in Data Science: graduated first class with distinction
 
-🤔 PhD with research forcus in Artificial Intelligence
+🤔 Research forcus in Artificial Intelligence
 
 💬 more details loading...
 
